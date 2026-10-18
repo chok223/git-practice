@@ -1,0 +1,4 @@
+# Git commands
+- git add: stage changes
+- git commit: save a snapshot
+- git push: upload to remote
